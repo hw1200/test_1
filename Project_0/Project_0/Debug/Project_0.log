@@ -1,0 +1,4 @@
+﻿D:\ABC\C++\VS\ide\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project_0.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+D:\ABC\C++\project_1\day_1\Project_0\Project_0\main.c(34,10): warning C4098: “double_test_1”:“void”函数返回值
+  Project_0.vcxproj -> D:\ABC\C++\project_1\day_1\Project_0\Debug\Project_1.exe
